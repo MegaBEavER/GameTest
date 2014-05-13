@@ -1,0 +1,18 @@
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cursor.xnb
+c:\users\макс\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cursor_active.xnb
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cursor_active.xnb
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button_exit.xnb
+C:\Users\Макс\Documents\GitHub\GameTest\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button_newgame.xnb
